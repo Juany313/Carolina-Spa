@@ -53,7 +53,7 @@
 
     &__tr {
         &:hover {
-            background-color: color.adjust(v.$primario, $lightness: -10%);;
+            background-color: color.adjust(v.$primario, $lightness: -10%);
         }
     }
 
